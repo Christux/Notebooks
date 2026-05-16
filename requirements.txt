@@ -38,6 +38,7 @@ python-dateutil==2.9.0.post0
 pytz==2026.2
 pyvis==0.3.2
 pyzmq==27.1.0
+scipy==1.17.1
 setuptools==82.0.1
 six==1.17.0
 stack-data==0.6.3
